@@ -26,8 +26,6 @@ git merge upstream/main
 
 
 git checkout -b bname
-
-
 git request-pull branch repourl
 
 git pull-request(review and merge )
